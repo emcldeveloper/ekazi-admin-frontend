@@ -81,7 +81,8 @@ const PlansPage = () => {
         <div>
           <h2 className="text-xl font-bold">Subscription Plans</h2>
           <p className="text-muted-foreground text-sm">
-            Create and manage subscription plans for your platform.
+            Create and manage subscription plans for your platform. Create and
+            manage subscription plans for your platform.
           </p>
         </div>
 
